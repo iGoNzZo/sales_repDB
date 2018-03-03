@@ -1,0 +1,30 @@
+Herold	Castillo	54	Accounting Assistant IV	9/24/1983	9/24/2016	8 Iowa Parkway	Vancouver	Washington	United States	79182	1-(806)901-5474	tgordon0@scribd.com	Product Management
+Shawn	Foster	69	Account Coordinator	8/29/1966	12/3/2016	34733 Northfield Avenue	Pittsburgh	Pennsylvania	United States	26721	1-(203)151-3726	kschmidt1@time.com	Sales
+Teresa	Ortiz	32	Community Outreach Specialist	11/12/1982	8/18/2016	0839 Blue Bill Park Trail	Tacoma	Washington	United States	76711	1-(254)455-5419	sreid2@washington.edu	Tech Support
+Joseph	Boyd	52	Data Coordiator	9/28/1985	11/23/2016	676 Westend Circle	Buffalo	New York	United States	99210	1-(509)961-6176	phill3@diigo.com	Software
+Alex	Flores	29	Web Developer I	10/3/1981	12/20/2016	26794 Carpenter Junction	Portland	Oregon	United States	19160	1-(215)575-4748	wmartinez4@huffingtonpost.com	Engineering
+Edward	Ramos	53	Account Executive	11/7/1985	9/7/2016	432 Tennessee Trail	Fargo	North Dakota	United States	33913	1-(239)957-7726	sallen5@jugem.jp	Accounting
+Lori	Burton	67	Marketing Assistant	12/26/1961	8/31/2016	4 Eastlawn Lane	Irvine	California	United States	95123	1-(408)236-1177	tross6@sogou.com	Hardware
+Emily	Burns	40	Environmental Tech	7/8/1967	8/24/2016	52027 Del Mar Crossing	Arvada	Colorado	United States	43268	1-(614)706-6803	tbrooks7@chicagotribune.com	Information Technology
+Joyce	Edwards	56	Quality Control Specialist	2/12/1961	1/25/2017	362 Debra Plaza	Tampa	Florida	United States	89550	1-(775)464-8973	pcooper8@moonfruit.com	Cybersecurity
+Amanda	Mendoza	48	Data Coordiator	8/19/1968	2/4/2017	30 Bartillon Crossing	Chicago	Illinois	United States	37112	1-(201)686-1234	rholmes9@hubpages.com	Human Resources
+Donna	Carter	17	Pharmacist	11/26/1984	2/8/2017	8 Iowa Parkway	Vancouver	Washington	United States	79182	1-(615)955-1605	dcartera@networkadvertising.org	Product Management
+John	Wells	30	Sales Associate	7/12/1979	9/18/2016	34733 Northfield Avenue	Pittsburgh	Pennsylvania	United States	26721	1-(971)933-1656	jwellsb@nydailynews.com	Sales
+Gloria	Hernandez	92	Senior Financial Analyst	7/25/1968	2/8/2017	0839 Blue Bill Park Trail	Tacoma	Washington	United States	76711	1-(202)335-6840	grosec@cam.ac.uk	Tech Support
+Willie	Nelson	47	Human Resources Manager	10/19/1982	9/26/2016	676 Westend Circle	Buffalo	New York	United States	99210	1-(314)133-1372	wrobertsd@bluehost.com	Software
+Heather	Dixon	74	Media Manager IV	7/16/1985	10/26/2016	26794 Carpenter Junction	Portland	Oregon	United States	19160	1-(501)129-5796	hdixone@umn.edu	Engineering
+Steve	Johnson	86	Civil Engineer	8/17/1960	1/2/2017	432 Tennessee Trail	Fargo	North Dakota	United States	33913	1-(478)267-2075	sjohnsonf@fda.gov	Accounting
+Angela	Burke	19	Senior Editor	8/28/1969	8/11/2016	4 Eastlawn Lane	Irvine	California	United States	95123	1-(808)829-1968	aburkeg@hexun.com	Hardware
+Debra	Gardner	100	Marketing Assistant	4/17/1970	11/11/2016	52027 Del Mar Crossing	Arvada	Colorado	United States	43268	1-(814)966-3636	dgardnerh@lulu.com	Information Technology
+Eric	Carr	34	Media Manager III	1/10/1966	10/16/2016	362 Debra Plaza	Tampa	Florida	United States	89550	1-(206)967-1717	ecarri@imgur.com	Cybersecurity
+Philip	Hunter	81	Nurse	7/27/1976	10/30/2016	30 Bartillon Crossing	Chicago	Illinois	United States	37112	1-(813)246-5499	phunterj@blinklist.com	Human Resources
+Janice	Clark	97	Sales Associate	2/22/1982	8/26/2016	8 Iowa Parkway	Vancouver	Ohio	United States	79182	1-(216)413-2567	jclarkk@live.com	Product Management
+Brian	Jacobs	62	Database Administrator I	2/1/1962	1/28/2017	34733 Northfield Avenue	Pittsburgh	Alabama	United States	26721	1-(205)625-1369	bjacobsl@slideshare.net	Sales
+Maria	Fox	61	Database Administrator III	5/29/1988	10/23/2016	0839 Blue Bill Park Trail	Tacoma	Texas	United States	76711	1-(940)142-0271	mfoxm@twitter.com	Tech Support
+Annie	Fernandez	49	Editor	10/21/1971	10/17/2016	676 Westend Circle	Buffalo	Georgia	United States	99210	1-(404)593-2494	afernandezn@admin.ch	Software
+Frances	Nichols	66	Software Test Engineer I	3/5/1985	12/8/2016	26794 Carpenter Junction	Portland	North Carolina	United States	19160	1-(704)297-2416	fnicholso@wordpress.com	Engineering
+Albert	Hicks	82	Assistant Media Planner	1/4/1987	8/29/2016	432 Tennessee Trail	Fargo	Ohio	United States	33913	1-(330)640-5910	ahicksp@chicagotribune.com	Accounting
+Ruby	Murphy	2	Legal Assistant	4/2/1975	10/28/2016	4 Eastlawn Lane	Irvine	Florida	United States	95123	1-(305)670-7355	rmurphyq@netscape.com	Hardware
+Louis	Miller	57	Recruiting Manager	2/9/1988	8/27/2016	52027 Del Mar Crossing	Arvada	Nevada	United States	43268	1-(775)680-9832	lmillerr@geocities.com	Information Technology
+Rose	Roberts	37	Recruiter	11/12/1979	1/4/2017	362 Debra Plaza	Tampa	Ohio	United States	89550	1-(614)915-4652	rrobertss@liveinternet.ru	Cybersecurity
+Russell	Wheeler	20	Physical Therapy Assistant	3/29/1967	8/27/2016	30 Bartillon Crossing	Chicago	Florida	United States	37112	1-(850)953-0287	rwheelert@vk.com	Human Resources
